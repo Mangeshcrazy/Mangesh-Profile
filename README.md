@@ -1,7 +1,5 @@
 <html>
 
-<title> Mangesh-Profile </title>
-
 <body>
   <table style="width:60%">
     <tr>
