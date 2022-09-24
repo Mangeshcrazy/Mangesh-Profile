@@ -36,15 +36,15 @@
 
   <table style="width:20%">
     <tr>
-      <td>HTML</td>
+      <td>Recruitment</td>
       <td>⭐⭐⭐⭐⭐</td>
     </tr>
     <tr>
-      <td>CSS</td>
+      <td>Offer Negotiation</td>
       <td>⭐⭐⭐⭐</td>
     </tr>
     <tr>
-      <td>JavaScript</td>
+      <td>Onboarding</td>
       <td>⭐⭐⭐</td>
     </tr>
   </table>
