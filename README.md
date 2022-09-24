@@ -50,8 +50,6 @@
   </table>
 
 
-  </ul>
-
   <h2>Please Contact US </h2>
   <ul>
     <li><em>Email ID:</em><a href="mailto:xyz@gmail.com">xyz@gmail.com</a></li>
