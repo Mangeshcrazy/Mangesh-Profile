@@ -6,7 +6,7 @@
       <td><img src="mangesh.png" width="200" height="200" alt="Mangesh Profile Picture"></td>
       <td>
         <h1> Mangesh Gaikwad </h1>
-        <p>Founder and CEO of <strong><a href="demo">demo purpose</a></strong></p>
+        <p>HR Professional at <strong><a href="demo">Leading Organization</a></strong></p>
         <p>I am Talent Acquisition professional. I ❤️ to connect with the Resource and Clients.</p>
       </td>
     </tr>
