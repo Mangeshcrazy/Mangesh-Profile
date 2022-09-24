@@ -34,7 +34,7 @@
 
   <h2>My Skills</h2>
 
-  <table style="width:20%">
+  <table style="width:50%">
     <tr>
       <td>Recruitment</td>
       <td>⭐⭐⭐⭐⭐</td>
