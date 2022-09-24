@@ -62,29 +62,7 @@
   <p><strong><em>Address:</em></strong><br>
     My new address.</p>
 
-    <form action="mailto:xyz@gmail.com" method="post" enctype="text/plain">
-
-      <label for="">Name:</label>
-      <input type="text" name="" value=""><br>
-
-      <label for="">Mobile No:</label>
-      <input type="number" name="" value=""><br>
-
-      <label for="">Email ID:</label>
-      <input type="email" name="" value=""><br>
-
-      <label for="">DOB</label>
-      <input type="date" name="" value=""><br>
-
-      <label for="">Upload Resume:</label>
-      <input type="file" name="" value=""><br>
-
-      <label>Your Message:</label><br>
-      <textarea name="  " rows="10" cols="30"></textarea><br>
-
-      <input type="submit">
-
-    </form>
+  
 
 </body>
 
