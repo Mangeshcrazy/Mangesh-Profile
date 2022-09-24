@@ -1,5 +1,4 @@
 <html>
-</head>
 
 <body>
   <table style="width:60%">
@@ -13,7 +12,6 @@
     </tr>
   </table>
 
-  <hr size="3" noshade==0>
   <h3>About My Profession: Recruitment</h3>
   <ul>
     <li>Understanding the Job Description</li>
